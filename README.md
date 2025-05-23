@@ -13,6 +13,7 @@ This is my personal summary of **IBM's Introduction to Data Engineering** course
 ## 📁 Files in This Repo:
 - `glossary.md` — important definitions
 - `reflections.md` — my insights and personal takeaways
+- ![Data Pipeline Flow](data-eng-diagram.png)
 - `data-eng-diagram.png` — visual of the data pipeline process
 
 ---
