@@ -16,6 +16,7 @@ This is my personal summary of **IBM's Introduction to Data Engineering** course
 - ![Data Pipeline Flow](data-eng-diagram.png)
 - `data-eng-diagram.png` — visual of the data pipeline process
 - `daily_stock.py` — script to fetch daily closing prices for a stock symbol
+- `lane_runner.py` — pseudo-3D lane switching driving game built with pygame
 
 ---
 
@@ -36,6 +37,14 @@ Fetch the latest closing price for a stock symbol:
 
 ```bash
 python daily_stock.py AAPL
+```
+
+### Play the Lane Runner mini-game
+
+Launch the driving game, dodge oncoming traffic with the left/right arrow keys, pause with `P`, and restart after a crash with `R`:
+
+```bash
+python lane_runner.py
 ```
 
 ## 🚀 Why I’m Doing This
